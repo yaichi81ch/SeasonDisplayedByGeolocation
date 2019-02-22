@@ -1,2 +1,0 @@
-# SeasonDisplayedByGeolocation
-Created with CodeSandbox
